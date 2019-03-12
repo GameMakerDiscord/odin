@@ -1,7 +1,7 @@
 # odin
 ### by [@imlazyeye](https://twitter.com/imlazyeye)
 
-# All art in the demo is created by [@bakudas](https://twitter.com/bakudas)
+*All art in the demo is created by [@bakudas](https://twitter.com/bakudas)*
 
 Once intended to be a massive, paid framework, odin is now an open source project for any and all to use / contribute towards. 
 
