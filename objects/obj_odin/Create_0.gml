@@ -1,7 +1,7 @@
 /// @desc Odin Initilization
 
 // Start the engine!
-odin_init(180, 1080, spr_toast, fnt_pixel, $2e2232);
+odin_init(180, 720, spr_toast, fnt_pixel, $2e2232);
 
 // Input mapping
 odin_input_add("left", ord("A"), vk_left);
