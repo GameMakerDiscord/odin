@@ -1,6 +1,8 @@
 # odin
 ### by [@imlazyeye](https://twitter.com/imlazyeye)
 
+# All art in the demo is created by [@bakudas](https://twitter.com/bakudas)
+
 Once intended to be a massive, paid framework, odin is now an open source project for any and all to use / contribute towards. 
 
 Odin is intended to be very modular -- ideally, systems do not rely upon eachother unless they absolutely have to. As an example, it would be silly not have the NPC and quest system work hand in hand, but the lighting system has no reason to interfere with the finite state machine. 
